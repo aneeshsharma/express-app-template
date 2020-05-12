@@ -1,0 +1,30 @@
+{
+  "name": "express-app-template",
+  "version": "1.0.0",
+  "description": "An Express WebApp template",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneeshsharma/express-app-template.git"
+  },
+  "keywords": [
+    "template",
+    "express",
+    "webapp"
+  ],
+  "author": "Anish Sharma",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/aneeshsharma/express-app-template/issues"
+  },
+  "homepage": "https://github.com/aneeshsharma/express-app-template#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
